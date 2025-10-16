@@ -33,7 +33,7 @@ default_values = [
 ]
 
 # Sidebar setup
-st.sidebar.image("Pic 1.png", width='stretch)
+st.sidebar.image("Pic 1.PNG", width='stretch)
 st.sidebar.header("User Inputs")
 
 # Collect user inputs
@@ -58,7 +58,7 @@ input_data_scaled = input_data.copy()
 input_data_scaled[scale_vars] = scaler.transform(input_data[scale_vars])
 
 # App Header
-st.image("Pic 2.png", width='stretch)
+st.image("Pic 2.PNG", width='stretch)
 st.title("Customer Churn Prediction")
 
 # Page Layout
