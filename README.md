@@ -7,7 +7,7 @@ A machine learning project to predict customer churn, built with XGBoost and dep
 
 ## Live Demo
 
-**[➡️ View the Live Churn Prediction App Here!](your-streamlit-app-url-goes-here)**
+**[➡️ View the Live Churn Prediction App Here!]([your-streamlit-app-url-goes-here](https://churn-prediction-app-app-4afw8muy33tpg6dyuuqimd.streamlit.app/))**
 
 *(Note: The app may take 30-60 seconds to "wake up" if it has been idle.)*
 
